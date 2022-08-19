@@ -1,4 +1,4 @@
-# 3x-1
+# 3x+1
 3x+1 recreated in Python
 
 If a number is odd it is multiplied by 3 and 1 is added to the product.
